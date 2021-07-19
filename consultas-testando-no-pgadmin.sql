@@ -3,7 +3,7 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE BRASÍLIA
 Curso: Tecnologia em Sistemas para Internet
 Professor: Caio Moura Daoud
 Aluna: Deise Freire
-Data: 18 de julho de 2021.
+Data: 18 de julho de 2021
 */
 
 /**
