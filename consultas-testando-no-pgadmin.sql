@@ -21,9 +21,9 @@ AOUD, Caio Moura. Banco de dados II - 18 - consultas, testando no pgadmin. 13-13
 -- BETWEEN AND
 -- SELECT * FROM disciplina
 
-/** Primeira consulta
+/** Primeira consulta*/
 SELECT nome FROM disciplina
-*/
+
 
 /** Segunda consulta
 -- SELECT nome, ch FROM disciplina
