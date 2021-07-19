@@ -1,4 +1,12 @@
 /**
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE BRASÍLIA
+Curso: Tecnologia em Sistemas para Internet
+Professor: Caio Moura Daoud
+Aluna: Deise Freire
+Data: 18 de julho de 2021.
+*/
+
+/**
 REFERÊNCIA:
 AOUD, Caio Moura. Banco de dados II - 18 - consultas, testando no pgadmin. 13-13 de sep de 2020. Notas de Aula.
 */
