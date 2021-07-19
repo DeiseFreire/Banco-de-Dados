@@ -21,9 +21,9 @@ modulo INT,
 ch INT
 );
 
-/** Primeira pesquisa
+/** Primeira pesquisa*/
 SELECT * FROM disciplina
-*/
+
 
 /** Segunda pesquisa
 SELECT nome FROM disciplina
