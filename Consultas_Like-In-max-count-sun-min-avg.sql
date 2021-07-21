@@ -6,15 +6,17 @@ SELECT nome_curso, valor_curso
 -- Operador Like
 
 -- Primeira consulta
+/**
 FROM alu_curso
 WHERE nome_curso LIKE 'Inf%';
+*/
 
 
-/**Segunda consulta
+-- Segunda consulta
 SELECT nome_curso, valor_curso
 FROM alu_curso
 WHERE nome_curso LIKE '%os';
-*/
+
 
 /**Teceira consulta
 SELECT nome_curso, valor_curso
