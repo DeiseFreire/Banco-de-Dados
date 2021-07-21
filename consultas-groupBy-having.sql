@@ -10,6 +10,7 @@ SELECT COUNT(*)
 FROM produto
 
 
+
 -- Segunda consulta
 /** Quantos produtos cadastrados por unidade? */
 
