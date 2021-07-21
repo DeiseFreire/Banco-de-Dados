@@ -1,4 +1,4 @@
-/** DAOUD, Caio Moura. Banco de dados ii - 21: Consultas GORUP BY, HAVING. 
+/** DAOUD, Caio Moura. Banco de dados II - 21: Consultas GORUP BY, HAVING. 
 21-21 de sep de 2020. Notas de Aula. No prelo.*/ 
 
 -- Group by e Having
@@ -31,3 +31,9 @@ HAVING COUNT(*) >= 3
 
 -- Quarta consulta
 /** Quais os totais pagos para cada faixa de comissão?*/
+
+/**
+SELECT faixa_comissao, SUM(salario_fixo)
+FROM vendedor
+GROUP BY faixa_comissao
+*/
