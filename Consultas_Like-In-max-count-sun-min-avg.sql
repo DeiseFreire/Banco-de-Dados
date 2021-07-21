@@ -5,7 +5,7 @@ SELECT nome_curso, valor_curso
 
 -- Operador Like
 
-Primeira consulta
+-- Primeira consulta
 FROM alu_curso
 WHERE nome_curso LIKE 'Inf%';
 
