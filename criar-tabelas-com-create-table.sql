@@ -2,7 +2,7 @@
 REIS, Fábio dos. Curso de postgresql: Como criar tabelas com CREATE TABLE. 19 aug. 2020, 07 jul. 2021. Notas de Aula. No prelo.
 */
 
-CREATE DATABASE fabio
+CREATE DATABASE fabio;
 
 CREATE TABLE clientes(
 cod_cliente INT PRIMARY KEY, 
