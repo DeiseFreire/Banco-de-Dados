@@ -13,6 +13,7 @@ VALUES
 INSERT INTO produtos (cod_produto, nome_produto, preco, qtde_estoque)
 VALUES
 (11, 'Margarina', 3.20, 8);
+
 -- 1ª consulta
 SELECT * FROM produtos;
 
