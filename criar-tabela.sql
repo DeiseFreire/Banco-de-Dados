@@ -5,5 +5,5 @@ BANCO de dados com postgresql: #04 - Criando tabela. Direção de Descompila. Pr
 CREATE TABLE categoria(
 id SERIAL PRIMARY KEY,
 descricao VARCHAR (100) NOT NULL,
-status INTEGER DEFAULT
+status INTEGER DEFAULT 1
 );
